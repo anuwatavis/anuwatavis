@@ -4,5 +4,13 @@
 
 ## Skills Breakdown 
 - Web Development
-| HTML | CSS  | JS | Ract.js | Node.js | LaRAVEL  |  MySQL | MongoDB |              
-|---|---|---|---|---|---|---|---|
+
+| HTML | CSS | JS  | React.js | Node.js | Laravel | MySQL | MongoDB |
+| ---- | --- | --- | -------- | ------- | ------- | ----- | ------- |
+
+
+- Machine Learning 
+ 
+| Python | Scikit-learn | 
+| ---- | --- | 
+
