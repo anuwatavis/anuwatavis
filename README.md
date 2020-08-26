@@ -14,3 +14,7 @@
 | Python | Scikit-learn | 
 | ---- | --- | 
 
+- My Works
+ 
+| Class-Si | Sushi Classification | 
+|---|---|
