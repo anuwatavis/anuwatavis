@@ -18,7 +18,7 @@
  
 | Project  |            Description             | Check Out! |
 | -------- | :--------------------------------: | ---------: |
-| Class-Si | Sushi Classification use mobilenet |      $1600 |
-| col 2 is |              centered              |        $12 |
+| Class-Si | Sushi Classification use mobilenet |       |
+| col 2 is |              Air fryer Data Analytics              | [I'm an inline-style link](https://www.google.com) |
 | col 3 is |           right-aligned            |         $1 |
 
