@@ -16,5 +16,6 @@
 
 - My Works
  
-| Class-Si | Sushi Classification | 
-|---|---|
+| Class-Si | Sushi Classification use mobilenet|
+|---|---|---|
+
