@@ -5,5 +5,5 @@
 ## Skills Breakdown 
 - Web Development
 
-| HTML | CSS  | JS | REACT | NODE.JS | LARAVEL  |  MYSQL |  MONGODB  |    
-|---|---|---|---|---|---|
+| HTML | CSS  | JS | REACT | NODE.JS | LARAVEL  |  MYSQL |  MONGODB   |              
+|---|---|---|---|---|---|---|---|
