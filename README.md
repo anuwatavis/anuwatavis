@@ -3,17 +3,36 @@
 :writing_hand: See my sharing content at medium [https://medium.com/@anuwat_7229]
 
 ## Skills Breakdown 
-### Web Development
+- Web Development
 <table>
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+      <td width="25%" align="center">
+        <span>html</span><br><br><br>
       </td>
-      <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+      <td width="25%" align="center">
+        <span>Css</span><br><br><br>
       </td>
-
+      <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>React</span><br><br><br>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Node.js</span><br><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>Laravel</span><br><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>MySQL</span><br><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>MongoDb</span><br><br><br>
+      </td>
     </tr>
   </tbody>
 </table>
