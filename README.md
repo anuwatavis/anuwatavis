@@ -16,10 +16,9 @@
 
 - My Works
  
- 
-| Class-Si | Sushi Classification use mobilenet|  
-|---|---|
-
-| Class-Si | Sushi Classification use mobilenet|  
-|---|---|
+| Project  |            Description             | Check Out! |
+| -------- | :--------------------------------: | ---------: |
+| Class-Si | Sushi Classification use mobilenet |      $1600 |
+| col 2 is |              centered              |        $12 |
+| col 3 is |           right-aligned            |         $1 |
 
