@@ -5,6 +5,6 @@
 ## Skills Breakdown 
 - Web Development
 
-|HTML|CSS|JS|React|
+|HTML|CSS|JS|React |
 |---|---|---|---|---|---|
 
