@@ -5,5 +5,5 @@
 ## Skills Breakdown 
 - Web Development
 
-| HTML | CSS  | JS | REACT | NODE.JS | LARAVEL | MYSQL | MONGODB | FIREBASE DB|
+| HTML | CSS  | JS | REACT | NODE.JS | LARAVEL | MYSQL | MONGODB | FIREBASE DB
 |---|---|---|---|---|---|
