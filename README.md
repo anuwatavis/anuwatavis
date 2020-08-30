@@ -23,4 +23,3 @@
 | Runrena| Shring Running Activities web application | [Web](https://runrena-b3aa5.firebaseapp.com) | [Repositoyty](https://github.com/anuwatavis/runrena) |
 | Pixel Lighting Interactive | Development of interactive pixel art with image processing | [Video](https://www.youtube.com/watch?v=df82XxggoX0)
 
-- I'm currently learning 
