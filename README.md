@@ -1,6 +1,6 @@
 # Hello ! I'm Anuwat (Anu Wat)👋
 :computer: Web devloper , internship at nectect thailand 
-:writing_hand: See my sharing content at medium [https://medium.com/@anuwat_7229]
+:writing_hand: See my sharing content at medium [https://anuwat-7229.medium.com/]
 
 ## Skills Breakdown 
 - Web Development
