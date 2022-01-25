@@ -5,8 +5,8 @@
 ## Skills Breakdown 
 - Web Development
 
-| HTML | CSS | JS  | React.js | Node.js | Laravel | MySQL | MongoDB | Postgres |
-| ---- | --- | --- | -------- | ------- | ------- | ----- | ------- | -------- |
+| HTML | CSS | JS  | React.js | Node.js | Laravel | MySQL | MongoDB | Postgres | NestJS |
+| ---- | --- | --- | -------- | ------- | ------- | ----- | ------- | -------- | ------ |
 
 
 - Machine Learning 
