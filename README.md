@@ -1,6 +1,6 @@
 # Hello ! I'm Anuwat (Anu Wat)👋
 :computer: Web devloper
-:writing_hand: See my sharing content at medium [https://anuwat-7229.medium.com/]
+:writing_hand: See my sharing content at medium [https://medium.com/@anuwataravis]
 
 ## Skills Breakdown 
 - Web Development
