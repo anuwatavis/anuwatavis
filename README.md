@@ -1,6 +1,11 @@
 # Hello ! I'm Anuwat (Anu Wat)👋
-:computer: Web devloper
-:writing_hand: See my sharing content at medium [https://medium.com/@anuwataravis]
+
+My Personal Note: [notes.anuwataravis.com](https://notes.anuwataravis.com/)
+My Personal Website: [anuwataravis.com](https://anuwataravis.com/)
+
+:writing_hand: See my sharing content on 
+[Medium](https://medium.com/@anuwataravis). 
+
 
 ## Skills Breakdown 
 - Web Development
