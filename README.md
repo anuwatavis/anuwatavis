@@ -1,7 +1,7 @@
 # Hello ! I'm Anuwat (Anu Wat)👋
 
-My Personal Note: [notes.anuwataravis.com](https://notes.anuwataravis.com/)  
-My Personal Website: [anuwataravis.com](https://anuwataravis.com/)
+My Personal Note: [notes.anuwataravis.com](https://notes.anuwataravis.dev/)  
+My Personal Website: [anuwataravis.com](https://anuwataravis.dev/)
 
 :writing_hand: See my sharing content on 
 [Medium](https://medium.com/@anuwataravis). 
