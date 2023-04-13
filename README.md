@@ -18,9 +18,27 @@ My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
   </a>
 </p>
 
-```pythob
+```python
 [HTML, CSS, JS, ReactJS, Angular, NodeJS, NextJS, NestJS, FastAPI, Flask, GIN]
 ```
+
+```Programming Language```
+```python
+[Python, Javascript, Typescript, NodeJS, C#]
+```
+
+```Software Development Tools```
+```python
+[GIT , Docker, Kubernetes]
+```
+
+```Infrastructure as code Tools```
+```python
+[Terraform]
+```
+
+
+
 
 
 
