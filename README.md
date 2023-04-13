@@ -11,10 +11,18 @@ My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
 
 
 ## Skills Breakdown 
-- Web Development
+```Web Development```
+<p align="center">
+  <a href="https://github.com/anuwatavis">
+   <img src="webstack.png" alt="web stack">
+  </a>
+</p>
 
-| HTML | CSS | JS  | React.js | Node.js | Laravel | MySQL | MongoDB | Postgres | NestJS |
-| ---- | --- | --- | -------- | ------- | ------- | ----- | ------- | -------- | ------ |
+```pythob
+[HTML, CSS, JS, ReactJS, Angular, NodeJS, NextJS, NestJS, FastAPI, Flask, GIN]
+```
+
+
 
 
 - Machine Learning 
