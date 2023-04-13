@@ -45,7 +45,7 @@ My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
 [Scikit-learn, PyTorch, Tensorflow]
 ```
 
-- My Works
+## My Projects
  
 | Project  |            Description             | Check Out! |
 | -------- | :--------------------------------: | ---------: |
