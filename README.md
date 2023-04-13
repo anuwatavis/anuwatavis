@@ -1,4 +1,4 @@
-# Hello ! I'm Anuwat (Anu Wat)👋
+# Hello สวัสดี I'm Anuwat (Anu Wat) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 My Personal Note: [notes.anuwataravis.dev](https://notes.anuwataravis.dev/)  
 My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
