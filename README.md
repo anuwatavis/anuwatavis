@@ -3,8 +3,11 @@
 My Personal Note: [notes.anuwataravis.dev](https://notes.anuwataravis.dev/)  
 My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
 
-:writing_hand: See my sharing content on 
-[Medium](https://medium.com/@anuwataravis). 
+:writing_hand: Check out my latest thoughts and experiences on programming and tech on
+[
+[Notes](https://notes.anuwataravis.dev/),
+ [Medium](https://medium.com/@anuwataravis)
+]
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-050a30?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@anuwataravis/)
 [![Medium Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuwataravis/)
