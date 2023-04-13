@@ -6,7 +6,9 @@ My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
 :writing_hand: See my sharing content on 
 [Medium](https://medium.com/@anuwataravis). 
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-050a30?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@akshat28vivek/)](https://medium.com/@anuwataravis/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-050a30?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@anuwataravis/)
+[![Medium Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuwataravis/)
+
 
 ## Skills Breakdown 
 - Web Development
