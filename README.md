@@ -37,16 +37,10 @@ My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
 [Terraform]
 ```
 
-
-
-
-
-
-
-- Machine Learning 
- 
-| Python | Scikit-learn | 
-| ---- | --- | 
+```Machine Learning```
+ ```python
+[Scikit-learn, PyTorch, Tensorflow]
+```
 
 - My Works
  
