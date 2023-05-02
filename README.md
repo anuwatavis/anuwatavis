@@ -22,27 +22,27 @@ My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
 </p>
 
 ```python
-[HTML, CSS, JS, ReactJS, Angular, NodeJS, NextJS, NestJS, FastAPI, Flask, GIN]
+['HTML', 'CSS', 'JS', 'ReactJS', 'Angular', 'NodeJS', 'NextJS', 'NestJS', 'FastAPI', 'Flask', 'GIN']
 ```
 
 ```Programming Language```
 ```python
-[Python, Javascript, Typescript, NodeJS, C#]
+['Python', 'Javascript', 'Typescript', 'NodeJS', 'C#']
 ```
 
 ```Software Development Tools```
 ```python
-[GIT , Docker, Kubernetes]
+['GIT' , 'Docker', 'Kubernetes']
 ```
 
 ```Infrastructure as code Tools```
 ```python
-[Terraform]
+['Terraform']
 ```
 
 ```Machine Learning```
  ```python
-[Scikit-learn, PyTorch, Tensorflow]
+['Scikit-learn', 'PyTorch', 'Tensorflow']
 ```
 
 ## My Projects
