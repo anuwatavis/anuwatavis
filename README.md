@@ -37,7 +37,7 @@ My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
 
 ```Infrastructure as code Tools```
 ```python
-['Terraform']
+['Terraform', 'TerraformCDK']
 ```
 
 ```Machine Learning```
