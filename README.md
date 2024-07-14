@@ -40,14 +40,14 @@ My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
 ['Terraform', 'TerraformCDK']
 ```
 
-```Machine Learning```
+```Machine Learning Framework```
  ```python
 ['Scikit-learn', 'PyTorch', 'Tensorflow']
 ```
 
 ```Data Pipeline Orcestrations Tools```
 ```python
-[Airflow, Azure Data Factory, AWS Glue]
+['Airflow', 'Google Cloud Composer', 'Azure Data Factory', 'AWS Glue']
 ```
 
 ## My Projects
