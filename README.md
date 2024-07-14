@@ -45,6 +45,11 @@ My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
 ['Scikit-learn', 'PyTorch', 'Tensorflow']
 ```
 
+```Data Pipeline Orcestrations Tools```
+```python
+[Airflow, Azure Data Factory, AWS Glue]
+```
+
 ## My Projects
  
 | Project  |            Description             | Check Out! |
