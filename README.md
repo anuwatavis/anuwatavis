@@ -25,6 +25,13 @@ My Personal Website: [anuwataravis.dev](https://anuwataravis.dev/)
 ['HTML', 'CSS', 'JS', 'ReactJS', 'Angular', 'NodeJS', 'NextJS', 'NestJS', 'FastAPI', 'Flask', 'GIN']
 ```
 
+```Data Stack```
+<p align="center">
+  <a href="https://github.com/anuwatavis">
+   <img src="datastack.png" alt="data stack">
+  </a>
+</p>
+
 ```Programming Language```
 ```python
 ['Python', 'Javascript', 'Typescript', 'NodeJS', 'C#']
